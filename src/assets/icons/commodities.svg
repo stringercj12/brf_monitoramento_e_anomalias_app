@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="commodities.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="53.291667"
+     inkscape:cx="11.990618"
+     inkscape:cy="12"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <g
+     clip-path="url(#clip0_1_114044)"
+     id="g10">
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 0.5,22.5 A 0.5,0.5 0 0 0 0,23 0.5,0.5 0 0 0 0.5,23.5 h 22 A 0.5,0.5 0 0 0 23,23 0.5,0.5 0 0 0 22.5,22.5 Z"
+       id="path1" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 12.5,16.5 A 0.50005,0.50005 0 0 0 12,17 v 6 A 0.5,0.5 0 0 0 12.5,23.5 0.5,0.5 0 0 0 13,23 v -5.5 h 6 V 23 A 0.5,0.5 0 0 0 19.5,23.5 0.5,0.5 0 0 0 20,23 v -6 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z"
+       id="path2" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 16,10.28125 c -0.340756,0 -0.67157,0.115261 -0.9375,0.328125 l -6.875,5.5 A 0.5,0.5 0 0 0 8.109375,16.8125 0.5,0.5 0 0 0 8.8125,16.890625 l 6.875,-5.5 c 0.08887,-0.07114 0.198856,-0.109375 0.3125,-0.109375 0.113644,0 0.223631,0.03824 0.3125,0.109375 l 6.875,5.5 A 0.5,0.5 0 0 0 23.890625,16.8125 0.5,0.5 0 0 0 23.8125,16.109375 l -6.875,-5.5 C 16.67157,10.396511 16.340756,10.28125 16,10.28125 Z"
+       id="path3" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 12.460938,16.501953 a 0.5,0.5 0 0 0 -0.339844,0.171875 0.5,0.5 0 0 0 0.05273,0.705078 l 7,6 a 0.5,0.5 0 0 0 0.705078,-0.05273 0.5,0.5 0 0 0 -0.05273,-0.705078 l -7,-6 a 0.5,0.5 0 0 0 -0.365234,-0.119141 z"
+       id="path4" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 19.173828,16.621094 -7,6 a 0.5,0.5 0 0 0 -0.05273,0.705078 0.5,0.5 0 0 0 0.705078,0.05273 l 7,-6 a 0.5,0.5 0 0 0 0.05273,-0.705078 0.5,0.5 0 0 0 -0.705078,-0.05273 z"
+       id="path5" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 21.5,14.400391 a 0.5,0.5 0 0 0 -0.5,0.5 V 23 A 0.5,0.5 0 0 0 21.5,23.5 0.5,0.5 0 0 0 22,23 v -8.099609 a 0.5,0.5 0 0 0 -0.5,-0.5 z"
+       id="path6" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 10.5,14.400391 a 0.5,0.5 0 0 0 -0.5,0.5 V 23 A 0.5,0.5 0 0 0 10.5,23.5 0.5,0.5 0 0 0 11,23 v -8.099609 a 0.5,0.5 0 0 0 -0.5,-0.5 z"
+       id="path7" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 0.5234375,5.5 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 H 11.476563 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
+       id="path8" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 0.5,9.5 A 0.5,0.5 0 0 0 0,10 0.5,0.5 0 0 0 0.5,10.5 h 11 A 0.5,0.5 0 0 0 12,10 0.5,0.5 0 0 0 11.5,9.5 Z"
+       id="path9" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 6,0.5 C 4.408896,0.5 2.8828944,1.1327306 1.7578125,2.2578125 0.63273056,3.3828944 0,4.908896 0,6.5 V 23 A 0.5,0.5 0 0 0 0.5,23.5 0.5,0.5 0 0 0 1,23 V 6.5 C 1,5.1737269 1.5270278,3.9026597 2.4648438,2.9648438 3.4026597,2.0270278 4.6737269,1.5 6,1.5 7.3262731,1.5 8.5973403,2.0270278 9.5351563,2.9648438 10.472941,3.9026651 11,5.1737361 11,6.5 v 5 A 0.5,0.5 0 0 0 11.5,12 0.5,0.5 0 0 0 12,11.5 v -5 C 12,4.9088868 11.36722,3.3828891 10.242188,2.2578125 9.1171056,1.1327306 7.591104,0.5 6,0.5 Z"
+       id="path10" />
+  </g>
+  <defs
+     id="defs10">
+    <clipPath
+       id="clip0_1_114044">
+      <rect
+         width="24"
+         height="24"
+         fill="white"
+         id="rect10" />
+    </clipPath>
+  </defs>
+</svg>

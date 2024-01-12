@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="meal.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="53.291667"
+     inkscape:cx="11.990618"
+     inkscape:cy="12"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     clip-path="url(#clip0_1_113794)"
+     id="g4">
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 20.5,0 A 0.50005,0.50005 0 0 0 20,0.5 v 15 8 A 0.5,0.5 0 0 0 20.5,24 0.5,0.5 0 0 0 21,23.5 V 16 h 2 c 0.265078,0 0.51965,-0.105787 0.707031,-0.292969 C 23.894213,15.51965 24,15.265078 24,15 a 0.50005,0.50005 0 0 0 0,-0.0039 C 23.966221,11.06357 23.552627,7.4123731 22.970703,4.71875 22.679741,3.3719385 22.350545,2.2676415 21.986328,1.4628906 21.80422,1.0605152 21.616528,0.73175528 21.392578,0.47460938 21.168628,0.21746347 20.875456,0 20.5,0 Z M 21,1.7480469 c 0.02666,0.053783 0.04742,0.067733 0.07422,0.1269531 0.314657,0.6952476 0.638384,1.7515017 0.919922,3.0546875 C 22.557016,7.535138 22.966525,11.134087 23,15 h -2 z"
+       id="path1" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 0.5,0 A 0.5,0.5 0 0 0 0,0.5 v 5 C 0,6.4280649 0.36914932,7.3183681 1.0253906,7.9746094 1.6816319,8.6308507 2.5719351,9 3.5,9 4.4280649,9 5.3183681,8.6308507 5.9746094,7.9746094 6.6308507,7.3183681 7,6.4280649 7,5.5 v -5 A 0.5,0.5 0 0 0 6.5,0 0.5,0.5 0 0 0 6,0.5 v 5 C 6,6.1632335 5.7365557,6.7986006 5.2675781,7.2675781 4.7986006,7.7365557 4.1632335,8 3.5,8 2.8367665,8 2.2013994,7.7365557 1.7324219,7.2675781 1.2634443,6.7986006 1,6.1632335 1,5.5 v -5 A 0.5,0.5 0 0 0 0.5,0 Z"
+       id="path2" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 3.5019531,0 a 0.5,0.5 0 0 0 -0.5,0.5 v 23 a 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 v -23 a 0.5,0.5 0 0 0 -0.5,-0.5 z"
+       id="path3" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 12.001953,9 c -3.8600523,0 -6.9999999,3.139887 -6.9999999,7 0,3.860113 3.1399476,7 6.9999999,7 3.860108,0 7,-3.139892 7,-7 0,-3.860108 -3.139892,-7 -7,-7 z m 0,1 c 3.319685,0 6,2.680315 6,6 0,3.319685 -2.680315,6 -6,6 -3.3196202,0 -5.9999999,-2.68032 -5.9999999,-6 0,-3.31968 2.6803797,-6 5.9999999,-6 z"
+       id="path4" />
+  </g>
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip0_1_113794">
+      <rect
+         width="24"
+         height="24"
+         fill="white"
+         id="rect4" />
+    </clipPath>
+  </defs>
+</svg>

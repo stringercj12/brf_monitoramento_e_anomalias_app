@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="delete.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="53.291667"
+     inkscape:cx="11.990618"
+     inkscape:cy="12"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3" />
+  <g
+     clip-path="url(#clip0_1_114056)"
+     id="g3">
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 16.646484,6.6445312 6.6464844,16.644531 a 0.5,0.5 0 0 0 0,0.708985 0.5,0.5 0 0 0 0.7070312,0 L 17.353516,7.3535156 a 0.5,0.5 0 0 0 0,-0.7089844 0.5,0.5 0 0 0 -0.707032,0 z"
+       id="path1" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 7,6.4980469 a 0.5,0.5 0 0 0 -0.3535156,0.1464843 0.5,0.5 0 0 0 0,0.7089844 l 3.5175786,3.5175784 6.482421,6.482422 a 0.5,0.5 0 0 0 0.707032,0 0.5,0.5 0 0 0 0,-0.708985 L 10.871094,10.164063 7.3535156,6.6445312 A 0.5,0.5 0 0 0 7,6.4980469 Z"
+       id="path2" />
+    <path
+       style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 12,-0.00195313 c -6.6214838,0 -12,5.37851613 -12,12.00000013 0,6.621512 5.3785177,12 12,12 6.621511,0 12,-5.378489 12,-12 C 24,5.3765646 18.621513,-0.00195312 12,-0.00195313 Z m 0,1.00000001 c 6.081075,0 11,4.91895502 11,11.00000012 0,6.081076 -4.918924,11 -11,11 -6.081045,0 -11,-4.918925 -11,-11 C 1,5.9170035 5.9189565,0.99804688 12,0.99804688 Z"
+       id="path3" />
+  </g>
+  <defs
+     id="defs3">
+    <clipPath
+       id="clip0_1_114056">
+      <rect
+         width="24"
+         height="24"
+         fill="white"
+         id="rect3" />
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="attachment.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="53.291667"
+     inkscape:cx="11.990618"
+     inkscape:cy="12"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,0 C 8.4167551,0 6,2.9660277 6,6.5 V 19 c 0,1.344567 0.4077753,2.5872 1.1855469,3.505859 C 7.9633184,23.424518 9.1224242,24 10.5,24 11.877576,24 13.036682,23.424518 13.814453,22.505859 14.592225,21.5872 15,20.344567 15,19 V 9.5 C 15,8.5871579 14.771612,7.7291759 14.267578,7.0742187 13.763545,6.4192616 12.963683,6 12,6 11.036317,6 10.236455,6.4192616 9.7324219,7.0742187 9.2283883,7.7291759 9,8.5871579 9,9.5 V 17 A 0.5,0.5 0 0 0 9.5,17.5 0.5,0.5 0 0 0 10,17 V 9.5 C 10,8.7568437 10.193675,8.1146355 10.525391,7.6835937 10.857106,7.252552 11.306685,7 12,7 12.693315,7 13.142894,7.252552 13.474609,7.6835937 13.806325,8.1146355 14,8.7568437 14,9.5 V 19 c 0,1.14143 -0.348242,2.149536 -0.949219,2.859375 C 12.449804,22.569214 11.607422,23 10.5,23 9.3925782,23 8.5501958,22.569214 7.9492187,21.859375 7.3482417,21.149536 7,20.14143 7,19 V 6.5 C 7,3.405979 8.9572516,1 12,1 c 3.042748,0 5,2.405979 5,5.5 v 9 A 0.5,0.5 0 0 0 17.5,16 0.5,0.5 0 0 0 18,15.5 v -9 C 18,2.9660277 15.583245,0 12,0 Z"
+     id="path1" />
+</svg>
