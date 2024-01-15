@@ -9,7 +9,7 @@ const Stack = createNativeStackNavigator<RootStackParamList>();
 
 export function AppStack() {
   return (
-    <Stack.Navigator initialRouteName="Validation" screenOptions={{ headerShown: false }}>
+    <Stack.Navigator initialRouteName="Home" screenOptions={{ headerShown: false }}>
       <Stack.Screen name="Validation" component={ValidationScreen} />
       <Stack.Screen name="Home" component={HomeScreen} />
       <Stack.Screen name="VehicleAuthentication" component={VehicleAuthentication} />

@@ -1,5 +1,5 @@
-import {StyleSheet} from "react-native";
-import {colors, fonts} from "../../core/themes";
+import { StyleSheet } from "react-native";
+import { colors, fonts } from "../../core/themes";
 
 export const styles = StyleSheet.create({
     container: {
@@ -158,38 +158,45 @@ export const styles = StyleSheet.create({
         fontFamily: fonts.BOLD,
         color: colors.gray['700'],
     },
-
-        container2: {
-            flexDirection: 'row',
-            padding: 16,
-            borderBottomWidth: 1,
-            borderBottomColor: '#ddd',
-            overflow: 'hidden'
-        },
-        marker: {
-            width: 10,
-            height: '100%',
-            // borderRadius: 5,
-            backgroundColor: 'red', // Cor do marcador
-            // position: 'absolute',
-            // left: -5,
-            // top: '50%',
-            // marginLeft: -5,
-            // marginRight: 10,
-            // marginTop: -5,
-        },
-        content: {
-            flex: 1,
-        },
-        title2: {
-            fontSize: 18,
-            fontWeight: 'bold',
-        },
-        description: {
-            marginTop: 8,
-        },
-        time: {
-            fontSize: 14,
-            color: '#888',
-        },
-    });
+    container2: {
+        flexDirection: 'row',
+        padding: 16,
+        borderBottomWidth: 1,
+        borderBottomColor: '#ddd',
+        overflow: 'hidden'
+    },
+    marker: {
+        width: 40,
+        height: 40,
+        borderRadius: 40,
+        backgroundColor: 'red',
+    },
+    content: {
+        flex: 1,
+    },
+    title2: {
+        fontSize: 18,
+        fontWeight: 'bold',
+    },
+    description: {
+        marginTop: 8,
+    },
+    time: {
+        fontSize: 14,
+        color: '#888',
+    },
+    search: {
+        padding: 24,
+        // flexDirection: 'row',
+    },
+    searchButtonClean: {
+        position: 'absolute',
+        top: 54,
+        right: 36,
+    },
+    searchButtonCleanText: {
+        color: colors.primary['400'],
+        fontFamily: fonts.SEMI_BOLD,
+        fontSize: 14,
+    },
+});
